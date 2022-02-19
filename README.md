@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elena-karaeva
 - 🎹 I'm a piano teacher in [Stolyarsky School, Odessa](https://stolyarsky.od.ua/)
-- 💲 I'm accepting invitations to play at restaurants and weddings. I may also to participe in other musical projects
+- 💲 I'm accepting invitations to play at restaurants and weddings in Odessa. I may also to participe in other musical projects
 - 👀 I’m interested in music, beauty, shopping and traveling
 - 🌱 I’m currently learning psychotherapy and do like to learn how to write HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on music events and music performance
