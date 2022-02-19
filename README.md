@@ -4,7 +4,7 @@
 - 👀 I’m interested in music, beauty, shopping and traveling
 - 🌱 I’m currently learning psychotherapy and do like to learn how to write HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on music events and music performance
-- 📫 How to reach me ...soon that info will be updated on my GitHub.io project page
+- 📫 How to reach me? Well... very soon that info will be updated on my GitHub.io project page
 
 <!---
 elena-karaeva/elena-karaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
